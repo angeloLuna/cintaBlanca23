@@ -1,0 +1,29 @@
+body {
+	margin: 0;
+}
+
+
+.titulo{
+	border: solid 2px;
+	/*background: red;*/
+}
+
+.cajita{
+	border: solid 1px red;
+	/*color Hexadecimal*/
+	/*background: #3356bf;*/
+	/*color en rgb*/
+	/*background: rgb(200,45,205);*/
+	/*color en rgba*/
+	background: rgba(0,0,0, .3);
+
+	/*margin: 50px;
+	padding: 50px;*/
+	/*padding-right: 50px;*/
+}
+
+.perfil-img{
+	width: 200px;
+	border-radius: 50%;
+}
+

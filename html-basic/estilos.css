@@ -1,0 +1,26 @@
+h1 {
+	color: blue;
+	font-family: Arial;
+}
+
+h2 {
+	color: purple;
+	font-family: sans-serif;
+	font-size: 12px;
+}
+
+h3 {
+	color: red;
+	font-family: sans-serif;
+	font-size: 50px;
+}
+
+.img-principal {
+	width: 400px;
+}
+
+.img-secundaria{
+	width: 300px;
+}
+
+
