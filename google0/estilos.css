@@ -1,0 +1,80 @@
+body{
+	margin: 0;
+	font-family: arial;
+}
+
+.nav{
+	/*border: 1px solid;*/
+}
+
+.link-gmail{
+	text-decoration: none;
+	color: grey;
+}
+.menu{
+	/*border: 1px solid red;*/
+	width: 30%;
+	margin-left: 70%;
+	text-align: center;
+}
+
+.texto-menu{
+	display: inline-block;
+}
+
+.img-menu{
+	width: 30px;
+	border-radius: 50%;
+}
+
+.main{
+	/*border: 1px solid;*/
+	margin-top: 100px;
+}
+
+span{
+	color: blue;
+}
+
+.contenido{
+	margin: auto;
+	/*border: solid 1px blue;*/
+	width: 60%;
+	text-align: center;
+}
+
+.g-img{
+	width: 400px;
+	/*border:1px solid red;*/
+}
+
+.input{
+	width: 484px;
+  height: 40px;
+
+}
+
+.boton{
+	width: 136px;
+	height: 34px;
+}
+
+.input-container{
+	/*border: solid 1px purple;*/
+	margin: 20px 0;
+	/*margin: 20px 0px 15px 5px;*/
+}
+
+.botones{
+	/*border: solid 1px purple;*/
+}
+
+
+
+
+
+
+
+
+
+
