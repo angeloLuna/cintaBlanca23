@@ -1,0 +1,105 @@
+body{
+	margin: 0;
+}
+
+.main{
+	/*border: 1px solid ;*/
+	margin-top: 60px;
+	height: 500px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.contenedor{
+	height: 60%;
+	/*border: 1px solid blue;*/
+	width: 50%;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+	align-items: center;
+
+}
+
+.contenedor img{
+	width: 272px;
+}
+
+.contenedor input{
+	width: 484px;
+	height: 36px;
+	border:none;
+	box-shadow: 0 2px 2px 0 rgba(0,0,0,0.16), 0 0 0 1px rgba(0,0,0,0.08);
+}
+
+.botones button{
+	height: 30px;
+	width: 145px;
+	background: #f4f4f4;
+	border: none;
+	color: #757575;
+	font-size: 12px;
+	font-weight: bold;
+}
+
+/*.botones button:nth-child(2){
+	background: red;
+}*/
+
+.contenedor p {
+	font-family: arial, sans-serif;
+	color: #222;
+	font-size: 13px;
+	margin: 0;
+}
+
+.header{
+	display: flex;
+	justify-content: flex-end;
+}
+.menu{
+	display: flex;
+	width: 30%;
+	justify-content: space-around;
+	padding: 0;
+	list-style: none;
+
+}
+/*Recomendada*/
+.custom-noti{
+	color: red;
+	font-size: 22px;
+}
+/*Bajo tu propio riesgo*/
+.menu-icon{
+	background: url("icons/menu.png");
+	background-size: cover;
+	height: 20px;
+	width: 20px;
+	display: block;
+	color: blue;
+}
+
+
+.portada{
+	border: 1px solid;
+	height: 300px;
+	background-image: url("https://onaircode.com/wp-content/uploads/2017/11/Constellation.jpg");
+	text-align: center
+}
+
+.portada img{
+	width: 250px;
+	margin-top: 160px;
+	border-radius: 50%;
+}
+
+
+
+
+
+
+
+
+

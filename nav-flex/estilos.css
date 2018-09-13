@@ -1,0 +1,29 @@
+body{
+	margin: 0;
+}
+.nav{
+	border: 1px solid;
+}
+
+.menu{
+	border: 1px solid red;
+	list-style: none;
+	width: 40%;
+	padding: 0;
+	height: 100px;
+
+	display: flex;
+	/*alineación horizontal*/
+	justify-content: space-around;
+	/*alineación vertical*/
+	align-items: center;
+
+}
+
+.menu li{
+	border: 1px solid blue;
+}
+
+.menu li a{
+
+}

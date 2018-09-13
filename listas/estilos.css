@@ -1,0 +1,33 @@
+body{
+	margin: 0;
+}
+
+/*.header{
+	border: 1px solid;
+}*/
+
+.nav{
+	padding: 5px 0;
+	background: #1976D2;
+	border-bottom: 2px #0D47A1 solid;
+}
+
+.menu{
+	width: 40%;
+	margin-left: 55%;
+
+}
+
+.menu li{
+	display: inline-block;
+	margin: 0 10px;
+	font-size: 1.2rem;
+	font-family: helvetica;
+}
+
+.menu li a{
+	color: white;
+	text-decoration: none;
+}
+
+
