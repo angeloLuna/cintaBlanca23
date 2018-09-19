@@ -1,0 +1,12 @@
+.input-group{
+	/*border: solid 1px;*/
+	display: flex;
+	flex-direction: column;
+	padding: 10px 0;
+}
+
+.input-group input{
+	width: 20%;
+	height: 20px;
+	border: 1px solid grey;
+}
