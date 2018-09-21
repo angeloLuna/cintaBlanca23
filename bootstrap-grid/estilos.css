@@ -1,0 +1,64 @@
+/*.colonia{
+	border: 1px solid;
+}
+
+.cuadra{
+	border: 1px solid blue;
+}
+
+.casa{
+	border: 1px solid red;
+}*/
+
+/*.box-container{
+	border: 1px solid;
+}*/
+
+/*.card-custom1{
+ margin: 0 10px
+}
+*/
+/*.card-container{
+	border:1px solid red;
+}*/
+.menu-custom{
+	width: 100%;
+  display: flex;
+  justify-content: space-around;
+}
+
+.cover{
+	border: 1px solid;
+	height: 300px;
+	background-image: url("img/jinx.jpg");
+	background-position: top;
+	background-size: cover;
+}
+
+.cards-container{
+	border: 1px solid;
+	height: 500px;
+}
+
+.cards{
+	border: 2px solid #d2d8e0;
+	height: 500px;
+	margin-top: -80px;
+	background-color: white;
+	border-radius: 3px;
+}
+
+.cards-content{
+	/*border:1px solid blue;*/
+	text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
