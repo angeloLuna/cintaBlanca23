@@ -1,0 +1,131 @@
+body{
+	font-family: serif;
+}
+
+.custom-nav{
+	height: 50px;
+	background-color: #121212;
+
+}
+
+.menu-center{
+	width: 100%;
+	display: flex;
+	justify-content: center;
+}
+
+.menu-center a{
+	color: #937241;
+}
+
+.cover{
+	border:1px solid;
+	height: 450px;
+	background-image: url("https://universe.leagueoflegends.com/images/latestBg_Wallpaper.png");
+	background-size: cover;
+}
+
+.cover-content{
+	height: 200px;
+	margin-top: 50px;
+	background-image: url("img/map.jpeg");
+	background-size: cover;
+}
+
+.title-container{
+	height: 200px;
+	background-color: black;
+}
+
+.title-content{
+	border-top: solid 5px #cfb37c;
+	height: 260px;
+	margin-top: -30px;
+	background: #16171b;
+	display: flex;
+	align-items: center;
+}
+
+.title{
+
+	color: #937241;
+	text-align: center;
+	width: 100%;
+}
+
+.title h6{
+	color: #a59c83;
+}
+
+.title h2{
+	font-size: 2rem;
+	font-family: serif;
+}
+
+.game-title{
+	background-image: url("https://universe.leagueoflegends.com/images/trendingBackground.jpg");
+	height: 200px;
+	background-size: cover;
+	background-position-y: 25%;
+
+}
+
+.game-title h2{
+	color: #937241;
+}
+
+.game-title-mask{
+	height: 100%;
+	background: rgba(0,0,0, .3);
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.game-content{
+	height: 500px;
+	background: black;
+}
+
+.aux{
+	width: 100%;
+}
+.game-cards{
+	display: flex;
+	justify-content: space-between;
+	padding: 50px 0; 
+}
+
+
+
+@media only screen and (max-width: 992px){
+	.title-content{
+		margin-top: 0;
+	}
+	.cover{
+		height: auto;
+		background-image: none;
+	}
+	.title-container{
+		height: auto;
+	}
+	.game-title{
+		height: 150px;
+	}
+
+	.game-cards{
+		display: inline-block;
+	}
+
+	.card-custom{
+		margin-bottom: 40px;
+	}
+}
+
+
+
+
+
+
+
+

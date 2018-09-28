@@ -1,0 +1,100 @@
+
+.fondotodo{
+    background: #002a8f;
+}
+
+.barra{
+    background: #002a8f;
+}
+
+.cuba-custom{
+    color: white;
+    font-family: pridi;
+  
+}
+
+.fuente-custom{
+    color: white;
+    font-family: pridi;
+
+}
+
+.fuente-custom2{
+    font-family: pridi;
+    text-align: center;
+    color: black;
+    opacity: 1;
+   
+    
+
+}
+
+.fuente-custom3{
+    font-family: pridi;
+    color: black;
+    opacity: 1;
+    
+    
+}
+
+.fuente-custom4{
+    font-family: pridi;
+    text-align: center;
+    color:  #002a8f;
+
+    
+}
+
+
+.main{
+  
+    margin: -300px;
+  
+}
+
+.carrusel-custom{
+    height: 720px;
+
+
+}
+
+.fondo-cajas{
+    background-color: grey;
+    opacity: .9;
+    
+}
+
+.caja1{
+   
+    display: flex;
+    justify-content: center;
+}
+
+.caja2{
+    
+    display: flex;
+    justify-content: center;
+}
+
+.caja3{
+   
+    display: flex;
+    justify-content: center;
+}
+
+.menu-custom{
+  
+    display: flex;
+    justify-content: flex-end;
+    
+}
+
+.menu-custom2{
+    
+    display: flex;
+    justify-content: flex-end;
+    
+}
+
+
+    
